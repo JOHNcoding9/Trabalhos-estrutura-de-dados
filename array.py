@@ -83,7 +83,7 @@ print("Após excluir J ã V ",Vetor.valores)
 
 
 # 2. Considere um vetor não ordenado com capacidade igual a 7 elementos contendo
-# em seu interior a sequência “S,A,T,C”. Responda:
+# em seu interior a sequência “C,A,S,A”. Responda:
 
 # a. Qual o nome do atributo responsável pelo controle de inserções da sequência
 # descrita no enunciado desta questão?
@@ -98,8 +98,8 @@ print("Após excluir J ã V ",Vetor.valores)
 
 # d. Se executar o método “imprimir()”, qual sequência de caracteres será mostrada
 # após a operação realizada no ítem b)?
- # R: o terminal irá imprimir "SATC" após a operação do item b)
- # R: o terminal irá imrpimir "STC" após a opreção do item d)
+ # R: o terminal irá imprimir "CASA" após a operação do item b)
+ # R: o terminal irá imrpimir "CSA" após a opreção do item d)
 
 # e. Qual o novo valor do atributo “ultima_posiçao”?
  # R: o novo valor de ultima_posicao é = 2
