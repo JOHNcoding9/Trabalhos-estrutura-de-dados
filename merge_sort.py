@@ -8,8 +8,8 @@ def merge_sort(array):
         esquerda =  array[:divisao]
         direita = array[divisao:]
 
-        merge_sort(direita)
         merge_sort(esquerda)
+        merge_sort(direita)
 
         i=j=k=0
 
